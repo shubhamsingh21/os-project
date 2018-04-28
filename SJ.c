@@ -34,7 +34,7 @@ int main()
         printf("\n Enter Priority for Process P%d: ",i+1);
         scanf("%d",&prior[i]);
     }
-    printf("\n\n Enter time quantum: ");
+    printf("\n\n Enter time quantum:");
    scanf("%d",&quan);
     for(i=0;i<proc;i++)
     {
