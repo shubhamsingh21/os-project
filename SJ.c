@@ -16,7 +16,7 @@ int main()
 	sumtat=0;
     printf("\n\n\n\t\t\t    >>  OS PROJECT <<");
     printf("\n\t\t\t      ======================");
-    printf("\n\n   Enter number of processes: ");
+    printf("\n\n   Enter number of processess: ");
     scanf("%d",&proc);
     printf("\n");
     for(i=0;i<proc;i++)
