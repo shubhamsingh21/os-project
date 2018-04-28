@@ -73,7 +73,7 @@ int main()
     while(1)
 	{
         for(i=0,count=0;i<proc;i++)
-		{
+		{           //
             temp=quan;
             if(Bursth[i]==0)
 			{
